@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/yangyuanhao/Desktop/DES/DES.h
+
+/Users/yangyuanhao/Desktop/DES/main.cpp
+DES.h
+/Users/yangyuanhao/Desktop/DES/DES.h
+stdio.h
+/Users/yangyuanhao/Desktop/DES/stdio.h
+string.h
+/Users/yangyuanhao/Desktop/DES/string.h
+memory.h
+/Users/yangyuanhao/Desktop/DES/memory.h
+
